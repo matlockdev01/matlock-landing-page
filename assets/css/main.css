@@ -2716,6 +2716,14 @@ input, select, textarea {
 				vertical-align: middle;
 				margin-left: 1em;
 			}
+	.left-tag {
+		float: left;
+		padding-left: 10%;
+	}
+	.right-tag {
+		float: right;
+		padding-right: 8%;
+	}
 
 /* Wrapper */
 
